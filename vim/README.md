@@ -27,15 +27,15 @@
 
 # 如何使用
 
-   > 这里仅介绍基本的使用方法，更多的使用方法请点击插件标题链接查看官方说明。
+> 这里仅介绍基本的使用方法，更多的使用方法请点击插件标题链接查看官方说明。
 
 
-   ### [nerdtree 文件树](https://github.com/scrooloose/nerdtree)
+- ### [nerdtree 文件树](https://github.com/scrooloose/nerdtree)
 
    <F6>打开/关闭文件树
 
 
-   ### [ack 代码搜索](https://github.com/mileszs/ack.vim)
+- ### [ack 代码搜索](https://github.com/mileszs/ack.vim)
 
    ```vim
    $ vim
@@ -44,7 +44,7 @@
    > 具体参考ack命令的使用方法
 
 
-   ### [cmdline-completion 命令行补全](https://github.com/vim-scripts/cmdline-completion)
+- ### [cmdline-completion 命令行补全](https://github.com/vim-scripts/cmdline-completion)
 
    ```vim
    $ vim
@@ -53,7 +53,7 @@
    ```
 
 
-   ### [vim-multiple-cursors 多重光标](https://github.com/terryma/vim-multiple-cursors)
+- ### [vim-multiple-cursors 多重光标](https://github.com/terryma/vim-multiple-cursors)
 
    <C-n>选中单词
    继续<C-n>选中单词
