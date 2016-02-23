@@ -55,11 +55,13 @@
 
 - ### [vim-multiple-cursors 多重光标](https://github.com/terryma/vim-multiple-cursors)
 
+   ```vim
    <C-n>选中单词
    继续<C-n>选中单词
    ...
    <c>进入Insert模式
    编辑文本
    <Esc>退出
+   ```
 
 
