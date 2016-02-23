@@ -32,7 +32,9 @@
 
 - ### [nerdtree 文件树](https://github.com/scrooloose/nerdtree)
 
+   ```
    <F6>打开/关闭文件树
+   ```
 
 
 - ### [ack 代码搜索](https://github.com/mileszs/ack.vim)
