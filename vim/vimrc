@@ -256,6 +256,9 @@ let MRU_Max_Entries = 400
 "let g:goyo_margin_top=1
 "let g:goyo_margin_bottom=1
 
+" Pluglin: cmdline-completion 命令行补全
+cmap <expr> <c-p> getcmdpos() == 1 ? '<up><home>' : '<plug>CmdlineCompletionBackward'
+cmap <expr> <c-n> getcmdpos() == 1 ? '<down><home>' : '<plug>CmdlineCompletionForward'
 
 " For snippet_complete marker.
 "if has('conceal')
@@ -353,7 +356,7 @@ let MRU_Max_Entries = 400
 
 " other keybindings for plugin toggle
 "nmap <F5> :TagbarToggle<cr>
-"nmap <F6> :NERDTreeToggle<cr>
+nmap <F6> :NERDTreeToggle<cr>
 "nmap <F3> :GundoToggle<cr>
 "nmap <F4> :IndentGuidesToggle<cr>
 "map <F7> :Gist
