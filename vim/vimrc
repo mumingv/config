@@ -37,6 +37,8 @@ set background=dark
 "au WinEnter * set cursorline cursorcolumn
 "set cursorline cursorcolumn
 
+" 取消文件备份
+:set nobackup
 
 " search
 set incsearch
