@@ -17,12 +17,16 @@
    $ sh deploy_config.sh
    ```
 
-3. 下载插件
+   > config目录可以放在任何位置，无特别要求。
+
+3. 安装插件
 
    ```vim
    $ vim
    :BundleInstall
    ```
+
+   > 先执行vim命令打开编辑器，然后在vim窗口键入":BundleInstall"下载安装插件。
 
 
 # 如何使用
