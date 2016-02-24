@@ -48,7 +48,7 @@ Bundle 'gmarik/vundle'
 "--------------
 " 导航树
 Bundle 'scrooloose/nerdtree'
-"Bundle 'majutsushi/tagbar'
+Bundle 'majutsushi/tagbar'
 " 代码搜索
 Bundle 'mileszs/ack.vim'
 "Bundle 'kien/ctrlp.vim'
