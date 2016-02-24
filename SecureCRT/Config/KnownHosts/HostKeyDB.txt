@@ -1,0 +1,4 @@
+﻿2,relay01.baidu.com,10.44.67.12:22,relay01.baidu.com[10.44.67.12]22.pub
+2,relay01.baidu.com,172.22.4.12:22,relay01.baidu.com[172.22.4.12]22.pub
+2,relay01.baidu.com,172.22.4.13:22,relay01.baidu.com[172.22.4.13]22.pub
+2,relay01.baidu.com,172.22.4.10:22,relay01.baidu.com[172.22.4.10]22.pub
